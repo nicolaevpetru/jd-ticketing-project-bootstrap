@@ -10,7 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4dab4d4-1ef1-4bba-8838-f8e403f36c63" name="Default Changelist" comment="Front End Design">
+    <list default="true" id="e4dab4d4-1ef1-4bba-8838-f8e403f36c63" name="Default Changelist" comment="Concepts of grid">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/user-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-create.html" afterDir="false" />
     </list>
@@ -66,7 +66,7 @@
       <updated>1604761893393</updated>
       <workItem from="1604761894478" duration="6294000" />
       <workItem from="1604771759147" duration="180000" />
-      <workItem from="1604771950658" duration="2847000" />
+      <workItem from="1604771950658" duration="4567000" />
     </task>
     <task id="LOCAL-00001" summary="Front End Design">
       <created>1604763077713</created>
@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604763077713</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Concepts of grid">
+      <created>1604774863919</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1604774863919</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,16 +102,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Front End Design" />
-    <option name="LAST_COMMIT_MESSAGE" value="Front End Design" />
+    <MESSAGE value="Concepts of grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Concepts of grid" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604762645488">
       <screen x="0" y="25" width="1440" height="798" />
     </state>
     <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.25.1440.798@0.25.1440.798" timestamp="1604762645488" />
-    <state x="320" y="145" key="Vcs.Push.Dialog.v2" timestamp="1604763083132">
-      <screen x="0" y="25" width="1440" height="800" />
+    <state x="869" y="506" key="Github.Dialog.Accounts.Choose" timestamp="1604774873884">
+      <screen x="0" y="0" width="2048" height="1152" />
     </state>
+    <state x="869" y="506" key="Github.Dialog.Accounts.Choose/0.0.2048.1152@0.0.2048.1152" timestamp="1604774873884" />
+    <state x="455" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604774869867">
+      <screen x="0" y="0" width="2048" height="1152" />
+    </state>
+    <state x="455" y="173" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1604774869867" />
     <state x="320" y="145" key="Vcs.Push.Dialog.v2/0.25.1440.800@0.25.1440.800" timestamp="1604763083132" />
   </component>
 </project>
