@@ -1,1 +1,2 @@
-# jd-ticketing-project-bootstrap
+# Ticketing Project Front-End Design
+# HTML-CSS-BOOTSTRAP
