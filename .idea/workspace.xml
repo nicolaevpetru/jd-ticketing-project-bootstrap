@@ -10,9 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e4dab4d4-1ef1-4bba-8838-f8e403f36c63" name="Default Changelist" comment="Radio buttons and dropdown added">
+    <list default="true" id="e4dab4d4-1ef1-4bba-8838-f8e403f36c63" name="Default Changelist" comment="Front End Design">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/user-create.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project-create.html" beforeDir="false" afterPath="$PROJECT_DIR$/project-create.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +69,9 @@
       <updated>1604761893393</updated>
       <workItem from="1604761894478" duration="6294000" />
       <workItem from="1604771759147" duration="180000" />
-      <workItem from="1604771950658" duration="6808000" />
+      <workItem from="1604771950658" duration="8376000" />
+      <workItem from="1604784340578" duration="92000" />
+      <workItem from="1605051148409" duration="219000" />
     </task>
     <task id="LOCAL-00001" summary="Front End Design">
       <created>1604763077713</created>
@@ -92,7 +94,21 @@
       <option name="project" value="LOCAL" />
       <updated>1604776711530</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Front End Design">
+      <created>1604779091533</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1604779091533</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Front End Design">
+      <created>1604779222369</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1604779222369</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,10 +127,10 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Front End Design" />
     <MESSAGE value="Concepts of grid" />
     <MESSAGE value="Radio buttons and dropdown added" />
-    <option name="LAST_COMMIT_MESSAGE" value="Radio buttons and dropdown added" />
+    <MESSAGE value="Front End Design" />
+    <option name="LAST_COMMIT_MESSAGE" value="Front End Design" />
   </component>
   <component name="WindowStateProjectService">
     <state x="458" y="174" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1604762645488">
@@ -125,10 +141,10 @@
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
     <state x="869" y="506" key="Github.Dialog.Accounts.Choose/0.0.2048.1152@0.0.2048.1152" timestamp="1604776718125" />
-    <state x="455" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604776714007">
+    <state x="455" y="173" key="Vcs.Push.Dialog.v2" timestamp="1604779224139">
       <screen x="0" y="0" width="2048" height="1152" />
     </state>
-    <state x="455" y="173" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1604776714007" />
+    <state x="455" y="173" key="Vcs.Push.Dialog.v2/0.0.2048.1152@0.0.2048.1152" timestamp="1604779224139" />
     <state x="320" y="145" key="Vcs.Push.Dialog.v2/0.25.1440.800@0.25.1440.800" timestamp="1604763083132" />
   </component>
 </project>
